@@ -1,0 +1,16 @@
+{
+  "name": "reactnl-demos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server './' -c-1 -o -p 7322",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Jasper Moelker <jasper@voorhoede.nl> (https://voorhoede.nl/)",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "0.9.0"
+  }
+}
